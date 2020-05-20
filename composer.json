@@ -1,5 +1,5 @@
 {
-    "name": "laravel-admin-ext/composer-phpinfo",
+    "name": "laravel-zhang/composer-phpinfo",
     "description": "description...",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
