@@ -1,9 +1,9 @@
 {
-    "name": "laravel-admin-ext/phpinfo",
+    "name": "laravel-admin-ext/composer-phpinfo",
     "description": "description...",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/laravel-admin-ext/phpinfo",
+    "homepage": "https://github.com/738204034/composer-phpinfo",
     "license": "MIT",
     "authors": [
         {
