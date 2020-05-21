@@ -2,7 +2,7 @@
     "name": "laravel-zhang/composer-phpinfo",
     "description": "description...",
     "type": "library",
-    "keywords": ["laravel-admin", "extension"],
+    "keywords": ["composer-phpinfo", "extension"],
     "homepage": "https://github.com/738204034/composer-phpinfo",
     "license": "MIT",
     "authors": [
